@@ -1,0 +1,50 @@
+#header{
+    padding: 0 1em;
+
+    .row{
+        margin: .5em 0;
+        display: flex;
+        align-items: center;
+    }
+
+    #logo{
+        h1{
+            font-size: 1.5em;
+            line-height: 1;
+            padding: 0;
+            margin: 0;
+            text-decoration: none;
+        }
+        
+        a{
+            text-decoration: none;
+        }
+    }
+
+    #nav{
+        list-style-type: none;
+        display: flex;
+        align-items: center;
+        
+        ul{
+            list-style: none;
+            margin: 0;
+        }
+        
+        li{
+            display: block;
+            position: relative;
+            float: left;
+            padding-left: 3em;
+            font-size: .8em;
+        }
+        
+    }
+
+    #boton{
+        .buttom{
+
+            float:right;
+        }
+    }
+}

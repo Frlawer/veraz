@@ -3,3 +3,5 @@
 veraz.code-workspace
 *.txt
 .vscode
+koala-config.json
+*.map
