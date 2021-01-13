@@ -28,9 +28,9 @@
 							<div class="col-6" id="nav">
 								<ul>
 									<li><a href="/">INICIO</a></li>
-									<li><a href="/nosotros.html" class="smooth-scroll">QUIENES SOMOS</a></li>
-									<li><a href="/informe.html" class="smooth-scroll">INFORME</a></li>
-									<li><a href="/servicios.html">SERVICIOS</a></li>
+									<li><a href="/nosotros" class="smooth-scroll">QUIENES SOMOS</a></li>
+									<li><a href="/informe" class="smooth-scroll">INFORME</a></li>
+									<li><a href="/servicios">SERVICIOS</a></li>
 									<li><a href="#contacto">CONTACTO</a></li>
 								</ul>
 		

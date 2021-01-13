@@ -5,3 +5,4 @@ veraz.code-workspace
 .vscode
 koala-config.json
 *.map
+.htaccess

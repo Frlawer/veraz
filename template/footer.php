@@ -23,6 +23,20 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<script src="assets/src/skdslider.js"></script>
+			<script>
+				    jQuery(document).ready(function(){
+						jQuery('#sliderarq').skdslider({
+						slideSelector: '.slide',
+						delay:5000,
+						animationSpeed:1500,
+						showNextPrev:true,
+						showPlayButton:false,
+						autoSlide:true,
+						animationType:'fading'
+						});
+					});
+			</script>
 
 	</body>
 </html>
