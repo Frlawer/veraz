@@ -6,22 +6,20 @@
 							<img src="images/image01.jpg" />
 							<!--Slider Description example-->
 							<div class="slide-desc">
-								<h2>Proyecto 1</h2>
-								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. <a class="more" href="#">Ver más</a></p>
+								<h2>¿QUERÉS RECUPERAR TU ACCESO AL CREDITO? </h2>
+								<p>Eliminamos tus DEUDAS caducas PAGAS y NO PAGAS de las CENTRALES de RIESGO CREDITICIO <a class="more" href="#">Ver más</a></p>
 							</div>
 						</div>
 						<div class="slide">
 							<img src="images/image02.jpg" />
 							<div class="slide-desc">
-								<h2>Proyecto 2</h2>
-								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. <a class="more" href="#">Ver más</a></p>
+								<h2>LIMPIÁ TU FIRMA Y AUMENTA TU PUNTAJE CREDITICIO</h2>
 							</div>
 						</div>
 						<div class="slide">
 							<img src="images/image03.jpg" />
 							<div class="slide-desc">
-								<h2>Proyecto 3</h2>
-								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. <a class="more" href="#">Ver más</a></p>
+								<h2>VOLVÉ A DISFRUTAR DE TARJETAS, PRESTAMOS Y CRÉDITOS.</h2>
 							</div>
 						</div>
 						<div class="slide">
@@ -37,33 +35,30 @@
 				<section class="wrapper style1 align-center">
 					<div class="inner">
 						<h2>¿CÓMO SALÍR DE VERAZ?</h2>
-						
-						<div class="index align-left">
-							<section>
-								<ul class="icons">
-									<li><a href="#" class=".flaticon-tarjeta-de-debito"><span class="label">Twitter</span></a></li>
-									<li><a href="#" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>
-									<li><a href="#" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a></li>
-									<li><a href="#" class="icon brands style2 fa-github"><span class="label">Github</span></a></li>
-									<li><a href="#" class="icon brands style2 fa-dribbble"><span class="label">Dribbble</span></a></li>
-								</ul>
+						<div class="items style2 medium onscroll-fade-in">
+							<section>	
+								<div class="inner">
+									<span class="style2 major fi flaticon-lista-de-verificacion"></span>
+									<h3>Envianos tu información</h3>
+								</div>
 							</section>
+							<section>	
+								<div class="inner">
+									<span class="style2 major fi flaticon-informe-de-credito-empresarial"></span>
+									<h3>Verificamos y resolvemos tus deudas</h3>
+								</div>
+							</section>
+							<section>	
+								<div class="inner">
+									<span class="style2 major fi flaticon-tarjeta-de-credito"></span>
+									<h3>Accedé a nuevos creditos</h3>
+								</div>
+							</section>
+							
 						</div>
 					</div>
 				</section>
-				<!-- One -->
-					<section class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
-						<div class="content">
-							<h1>Salí de Veraz</h1>
-							<p class="major">A (modular, highly tweakable) responsive one-page template designed by <a href="https://html5up.net">HTML5 UP</a> and released for free under the <a href="https://html5up.net/license">Creative Commons</a>.</p>
-							<ul class="actions stacked">
-								<li><a href="#first" class="button big wide smooth-scroll-middle">Get Started</a></li>
-							</ul>
-						</div>
-						<div class="image">
-							<img src="images/banner.jpg" alt="" />
-						</div>
-					</section>
+				
 
 				<!-- Two -->
 					<section class="spotlight style1 orient-right content-align-left image-position-right onscroll-image-fade-in" id="first">
@@ -89,274 +84,106 @@
 							</ul>
 						</div>
 						<div class="image">
-							<img src="images/spotlight02.jpg" alt="" />
+							<img src="images/image06.jpg" alt="" />
 						</div>
 					</section>
 
-				<!-- Four -->
-					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in">
+					<section class="spotlight style2 orient-left content-align-left image-position-right onscroll-image-fade-down">
 						<div class="content">
-							<h2>Pharetra etiam nulla</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum dolor sit amet.</p>
-							<ul class="actions stacked">
-								<li><a href="#" class="button">Learn More</a></li>
-							</ul>
+							<h3>¿Qué es el Score?</h3>
+							<p>El score es el puntaje crediticio que te otorgan las entidades por ser buen cliente, pagar a tiempo no atrasarte. Si tenes buen puntaje crediticio representas un riesgo bajo, esto quiere decir que los comercios/Bancos , podran otorgarte un buen crédito. Si tenes puntaje crediticio bajo de 100 a 300 puntos, representas un riesgo alto para las entidades por lo que no podran darte el credito, debido a que no realizaste compras suficientes o tuviste atrasos en tus pagos. En caso de desafectar al cliente, este mantiene el mismo puntaje en el cual lo dejo, sin embargo salir de veraz te ayuda... Cada 21 dias tu puntaje subirá de 30 a 60 puntos. Si queres tambien subir tu puntaje podrás hacerlo al momento de tramitar la desafectación, este tramite tiene 2 costos, desafectación mas suba de score. Si no estas afectado en veraz y querés mejorar tu calificación crediticia también es posible, este tramite tarda 45 a 60 dias en ambos casos, y lo importante es que no consultes por créditos mientras este en curso el tramite. Cada vez que un cliente consulta por crédito y no lo saca este se resta de su puntaje actual. Asi que no importara si estas limpio en veraz si no tenes puntaje tampoco te daran el credito.</p>
 						</div>
 						<div class="image">
-							<img src="images/spotlight03.jpg" alt="" />
+							<img src="images/score.jpg" alt="" />
 						</div>
 					</section>
 
-				<!-- Five -->
 					<section class="wrapper style1 align-center">
+					
 						<div class="inner">
-							<h2>Massa sed condimentum</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum.</p>
-						</div>
+							<div class="index align-left">
+								<!-- Formulario -->
+								<section>
+									<header>
+										<h3>Envíar consulta.</h3>
+										<p></p>
+									</header>
+									<div class="content">
 
-						<!-- Gallery -->
-							<div class="gallery style2 medium lightbox onscroll-fade-in">
-								<article>
-									<a href="images/gallery/fulls/01.jpg" class="image">
-										<img src="images/gallery/thumbs/01.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Ipsum Dolor</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions fixed">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/02.jpg" class="image">
-										<img src="images/gallery/thumbs/02.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Feugiat Lorem</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions fixed">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/03.jpg" class="image">
-										<img src="images/gallery/thumbs/03.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Magna Amet</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions fixed">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/04.jpg" class="image">
-										<img src="images/gallery/thumbs/04.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Sed Tempus</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions fixed">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/05.jpg" class="image">
-										<img src="images/gallery/thumbs/05.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Ultrices Magna</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions fixed">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/06.jpg" class="image">
-										<img src="images/gallery/thumbs/06.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Sed Tempus</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions fixed">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/07.jpg" class="image">
-										<img src="images/gallery/thumbs/07.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Ipsum Lorem</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions fixed">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/08.jpg" class="image">
-										<img src="images/gallery/thumbs/08.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Magna Risus</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions fixed">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/09.jpg" class="image">
-										<img src="images/gallery/thumbs/09.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Tempus Dolor</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions fixed">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/10.jpg" class="image">
-										<img src="images/gallery/thumbs/10.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Sed Etiam</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions fixed">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/11.jpg" class="image">
-										<img src="images/gallery/thumbs/11.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Magna Lorem</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions fixed">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/12.jpg" class="image">
-										<img src="images/gallery/thumbs/12.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Ipsum Dolor</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions fixed">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-							</div>
+										<form method="post" action="#">
+											<div class="fields">
+												<div class="field half">
+													<label for="name">Nombre</label>
+													<input type="text" name="name" id="name" value="">
+												</div>
+												<div class="field half">
+													<label for="name">Apellido</label>
+													<input type="text" name="name" id="name" value="">
+												</div>
+												<div class="field half">
+													<label for="name">DNI</label>
+													<input type="text" name="name" id="name" value="">
+												</div>
+												<div class="field half">
+													<label for="name">CUIL</label>
+													<input type="text" name="name" id="name" value="">
+												</div>
+												<div class="field half">
+													<label for="name">Sexo</label>
+													<input type="text" name="name" id="name" value="">
+												</div>
+												<div class="field half">
+													<label for="name">Provincia</label>
+													<input type="text" name="name" id="name" value="">
+												</div>
+												<div class="field half">
+													<label for="name">Localidad</label>
+													<input type="text" name="name" id="name" value="">
+												</div>
+												<div class="field half">
+													<label for="name">Domicilio</label>
+													<input type="text" name="name" id="name" value="">
+												</div>
+												<div class="field half">
+													<label for="name">Teléfono</label>
+													<input type="text" name="name" id="name" value="">
+												</div>
+												<div class="field half">
+													<label for="email">Email</label>
+													<input type="email" name="email" id="email" value="">
+												</div>
+												<div class="field half">
+													<label for="name">Fecha en la que resulto afectado.</label>
+													<input type="text" name="name" id="name" value="">
+												</div>
+												<div class="field">
+													<label for="department">Motivo de su afectación</label>
+													<select name="department" id="department">
+														<option value="">- Seleccionar -</option>
+														<option value="1">Refinanciación</option>
+														<option value="2">Deuda por Cheques</option>
+														<option value="3">Deuda por Crédito Personal</option>
+														<option value="4">Deuda por Crédito Hipotecario</option>
+														<option value="4">Deuda por Crédito Prendario</option>
+													</select>
+												</div>
+												<div class="field">
+													<label for="message">Detalles</label>
+													<textarea name="message" id="message" rows="6" placeholder="Detalles adicionales: institución que lo afectó, motivo, tipo de deuda, etc."></textarea>
+												</div>
+												<div class="field half">
+													<input type="checkbox" id="copy" name="copy">
+													<label for="copy">Enviarme una copia a mi email</label>
+												</div>
+											</div>
+											<ul class="actions">
+												<li><input type="submit" name="submit" id="submit" value="Enviar"></li>
+											</ul>
+										</form>
 
-					</section>
-
-				<!-- Six -->
-					<section class="wrapper style1 align-center">
-						<div class="inner">
-							<h2>Ipsum sed consequat</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum.</p>
-							<div class="items style1 medium onscroll-fade-in">
-								<section>
-									<span class="icon style2 major fa-gem"></span>
-									<h3>Lorem</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-								</section>
-								<section>
-									<span class="icon solid style2 major fa-save"></span>
-									<h3>Ipsum</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-								</section>
-								<section>
-									<span class="icon solid style2 major fa-chart-bar"></span>
-									<h3>Dolor</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-								</section>
-								<section>
-									<span class="icon solid style2 major fa-wifi"></span>
-									<h3>Amet</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-								</section>
-								<section>
-									<span class="icon solid style2 major fa-cog"></span>
-									<h3>Magna</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-								</section>
-								<section>
-									<span class="icon style2 major fa-paper-plane"></span>
-									<h3>Tempus</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-								</section>
-								<section>
-									<span class="icon solid style2 major fa-desktop"></span>
-									<h3>Aliquam</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-								</section>
-								<section>
-									<span class="icon solid style2 major fa-sync-alt"></span>
-									<h3>Elit</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-								</section>
-								<section>
-									<span class="icon solid style2 major fa-hashtag"></span>
-									<h3>Morbi</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-								</section>
-								<section>
-									<span class="icon solid style2 major fa-bolt"></span>
-									<h3>Turpis</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-								</section>
-								<section>
-									<span class="icon solid style2 major fa-envelope"></span>
-									<h3>Ultrices</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-								</section>
-								<section>
-									<span class="icon solid style2 major fa-leaf"></span>
-									<h3>Risus</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
+									</div>
 								</section>
 							</div>
 						</div>
-					</section>
 
-				<!-- Seven -->
-					<section class="wrapper style1 align-center">
-						<div class="inner medium">
-							<h2>Get in touch</h2>
-							<form method="post" action="#">
-								<div class="fields">
-									<div class="field half">
-										<label for="name">Name</label>
-										<input type="text" name="name" id="name" value="" />
-									</div>
-									<div class="field half">
-										<label for="email">Email</label>
-										<input type="email" name="email" id="email" value="" />
-									</div>
-									<div class="field">
-										<label for="message">Message</label>
-										<textarea name="message" id="message" rows="6"></textarea>
-									</div>
-								</div>
-								<ul class="actions special">
-									<li><input type="submit" name="submit" id="submit" value="Send Message" /></li>
-								</ul>
-							</form>
-
-						</div>
 					</section>

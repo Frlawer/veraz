@@ -22,15 +22,15 @@
 						<div class="row">
 							<div class="col-3" id="logo">
 								<a href="./">
-									<img src="./images/logo.png" width="100%">
+									<h1>SALÍ DE VERAZ</h1>
 								</a>
 							</div>
 							<div class="col-6" id="nav">
 								<ul>
 									<li><a href="/">INICIO</a></li>
-									<li><a href="/nosotros" class="smooth-scroll">QUIENES SOMOS</a></li>
-									<li><a href="/informe" class="smooth-scroll">INFORME</a></li>
-									<li><a href="/servicios">SERVICIOS</a></li>
+									<li><a href="#" class="smooth-scroll">QUIENES SOMOS</a></li>
+									<li><a href="#" class="smooth-scroll">INFORME</a></li>
+									<li><a href="#">SERVICIOS</a></li>
 									<li><a href="#contacto">CONTACTO</a></li>
 								</ul>
 		
