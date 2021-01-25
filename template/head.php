@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Salí de Veraz</title>
+		<title>Eli te saca de Veraz</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -22,7 +22,7 @@
 						<div class="row">
 							<div class="col-3" id="logo">
 								<a href="./">
-									<h1>SALÍ DE VERAZ</h1>
+									<h1>ELI TE SACA DE VERAZ</h1>
 								</a>
 							</div>
 							<div class="col-6" id="nav">
@@ -30,7 +30,7 @@
 									<li><a href="/">INICIO</a></li>
 									<li><a href="#" class="smooth-scroll">QUIENES SOMOS</a></li>
 									<li><a href="#" class="smooth-scroll">INFORME</a></li>
-									<li><a href="#">SERVICIOS</a></li>
+									<li><a href="#">ESTAFAS</a></li>
 									<li><a href="#contacto">CONTACTO</a></li>
 								</ul>
 		

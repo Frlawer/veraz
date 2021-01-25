@@ -1,19 +1,19 @@
 
 				<!-- One -->
-				<section class="banner orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
+				<section class="banner orient-left content-align-left image-position-right fullscreen onload-image-fade-in">
 					<div id="sliderarq">
 						<div class="slide">
-							<img src="images/image01.jpg" />
+							<img src="images/image07.jpg" />
 							<!--Slider Description example-->
 							<div class="slide-desc">
 								<h2>¿QUERÉS RECUPERAR TU ACCESO AL CREDITO? </h2>
-								<p>Eliminamos tus DEUDAS caducas PAGAS y NO PAGAS de las CENTRALES de RIESGO CREDITICIO <a class="more" href="#">Ver más</a></p>
+								<p>Eliminamos tus DEUDAS caducas PAGAS y NO PAGAS de las CENTRALES de RIESGO CREDITICIO.</p>
 							</div>
 						</div>
 						<div class="slide">
-							<img src="images/image02.jpg" />
+							<img src="images/image10.jpg" />
 							<div class="slide-desc">
-								<h2>LIMPIÁ TU FIRMA Y AUMENTA TU PUNTAJE CREDITICIO</h2>
+								<h2>REPRESENTANTES OFICIALES</h2>
 							</div>
 						</div>
 						<div class="slide">
@@ -23,10 +23,16 @@
 							</div>
 						</div>
 						<div class="slide">
-							<img src="images/image04.jpg" />
+							<img src="images/image08.jpg" />
 							<div class="slide-desc">
-								<h2>Proyecto 4</h2>
-								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. <a class="more" href="#">Ver más</a></p>
+								<h2>Cuidado, Estafadores!</h2>
+								<p>Como detectar a un estafador</p>
+							</div>
+						</div>
+						<div class="slide">
+							<img src="images/image02.jpg" />
+							<div class="slide-desc">
+								<h2>LIMPIÁ TU FIRMA Y AUMENTA TU PUNTAJE CREDITICIO</h2>
 							</div>
 						</div>
 					</div>
@@ -65,9 +71,6 @@
 						<div class="content">
 							<h2>Nosotros</h2>
 							<p>GRUPO NEOX es el nombre con que nuestro Estudio se ha dado conocer desde hace más doce añosSomos un grupo de profesionales altamente capacitados en materia de protección de datos personales, dedicados a suprimir –en forma rápida y efectiva – todas aquellas deudas de nuestros clientes, de bases de datos crediticias imperantes en la Argentina y en Latinoamérica, tales como Veraz, Fidelitas, Decidir, Nosis, Banco Central, Seven y Riesgonet, entre otras, sin ser necesario que las mismas se encuentren saldadas.El servicio que ofrecemos encuentra sustento jurídico en el proceso recetado por la ley 25.326 (Ley de Habeas Data). Nuestras oficinas se encuentran instaladas en Capital Federal y el Gran Buenos Aires. Poseemos representantes en todo el territorio Argentino. Realizamos trabajos a distancia que pudieran ser solicitados desde cualquier punto del país.</p>
-							<ul class="actions stacked">
-								<li><a href="#" class="button">Leer Más</a></li>
-							</ul>
 						</div>
 						<div class="image">
 							<img src="images/image05.jpg" alt="" />
@@ -79,12 +82,20 @@
 						<div class="content">
 							<h2>Nuestros servicios</h2>
 							<p>Por aplicación de la Ley 25.326 de Habeas Data, usted puede salir de todas las bases de datos de empresas de información crediticia aunque su deuda no haya sido cancelada. Entre las más reconocidas empresas de riesgo crediticio se encuentran VERAZ, NOSIS, SEVEN, RIESGO ON-LINE, RIESGO NET, entre otras. La actividad que estas empresas desempeñan está regulada por la Ley 25.326 y su Decreto Reglamentario. No obstante la claridad de la ley y la realidad nos muestra que no se cumplen los plazos legales allí establecidos y generalmente por falta de actualización de sus bases de datos o por errores cometidos por las entidades bancarias informantes, estas empresas se exceden del plazo legal permitido, pudiendo ser demandadas por daños y perjuicios por la persona erróneamente informada. Ante las graves irregularidades y excesos cometidos por estas empresas y las entidades bancarias y financieras, nuestro Estudio Integral se ha especializado en diferentes tipos de acciones legales, ofreciendo a los damnificados una solución efectiva, rápida y definitiva. Si bien la ley de Habeas Data establece plazos legales definidos, el equipo de trabajo del GRUPO NEOX desarrollo distintos recursos judiciales y extrajudiciales con los que actualmente soluciona el problema que muchas personas enfrentan ante estas entidades informantes. De esta manera, todos aquellos clientes que contraten nuestros servicios, podrán insertarse nuevamente en el sistema financiero y bancario aunque su deuda NO haya sido cancelada.</p>
-							<ul class="actions stacked">
-								<li><a href="#" class="button">Learn More</a></li>
-							</ul>
 						</div>
 						<div class="image">
 							<img src="images/image06.jpg" alt="" />
+						</div>
+					</section>
+
+					<section class="spotlight style1 orient-right content-align-left image-position-left onscroll-image-fade-down">
+						<div class="content">
+							<h3>Salir de veraz es posible</h3>
+							<p>Salir de Veraz <br>
+								La ley 25.326 dice que podes salir de veraz si la deuda tiene 5 aÃ±os o esta cancelada. Me cuestionan esto al momento de explicar ya que el boca en boca distorciona el mensaje y no falta el quien aconseje realizar el tramite desde la pagina de veraz. Pero ojala fuera tan sencillo, no tendria que renegar con la gente por esto. Si la deuda tiene 5 aÃ±os no te pueden cobrar lo que se hace en este caso es una baja judicial de la AFECTACION a Veraz y de todas las bases de datos que impliquen frenarte el Credito. Si la deuda es Cancelada pero tenes la afectacion a veraz quiere decir que te ATRASASTE por eso te "mancharon" Y lamentablemente quedaste "penalizado" en veraz para que por un tiempo no puedas sacar creditos, tampoco subira tu puntaje crediticio. Lo que hace este tramite es poder limpiarte para que puedas volver a tomar creditos, eso si, respetando esos 2 puntos.</p>
+						</div>
+						<div class="image">
+							<img src="images/pagueladeuda.jpg" alt="" />
 						</div>
 					</section>
 
@@ -96,6 +107,185 @@
 						<div class="image">
 							<img src="images/score.jpg" alt="" />
 						</div>
+					</section>
+
+					<section class="spotlight style3 orient-right content-align-left image-position-right onscroll-image-fade-in">
+						<div class="content">
+							<h2>Estafas</h2>
+							<p>Me estoy topando con gente que me cuenta que han sido estafados por estudios juridicos Fantasia como "SUPREMACIA LEGAL " O "SOLUCION CREDITICIA". No dan datos de quien atiende ni matricula del abogado, no sabemos quienes son o si nos sacaran de veraz. Y la realidad es que no. 
+								<blockquote>Cuando sospeches o no estes seguro, podes googlear el nombre de la empresa y la palabra estafa, ahi saldra si son verdaderos o no. Te dejo aca las quejas de estas 2 entidades y tene cuidado a la hora de depositar plata, pedi siempre identificacion <a href="https://tuquejasuma.com/supremacia-legal" target="_blank">https://tuquejasuma.com/supremacia-legal</a> <a href="https://tuquejasuma.com/solucion-crediticia" target="_blank">https://tuquejasuma.com/solucion-crediticia</a>. <br>Si fuiste estafado con todas las pruebas y comprobantes de pago hace la denuncia, y luego hace la denuncia llamando a ciberdelitos <a href="https://www.argentina.gob.ar/justicia/convosenlaweb/denunca" target="_blank"> https://www.argentina.gob.ar/justicia/convosenlaweb/denuncia</a>.</blockquote> 
+							</p>
+							<h4>A Continuacion Entidades con quejas y denuncias sobre estafas</h4>
+							<ul class="alt">
+								<li>Supremacia Legal</li>
+								<li>Escencia Juridica</li>
+								<li>Veraz en Blanco</li>
+								<li>Solucion Crediticia</li>
+								<li>Vivir sin deudas</li>
+								<li>Solucion Crediticia</li>
+							</ul>
+							Si conoces mas haceme saber en <a href="https://fb.com/salgadelveraz2018" target="_blank">www.facebook.com/salgadelveraz2018</a>
+							</p>
+						</div>
+						<div class="image">
+							<img src="images/image09.jpg" alt="" />
+						</div>
+					</section>
+
+					<section class="wrapper style1 align-center">
+						<div class="inner">
+							<h2>Galería de Referencias</h2>
+							<p>Aquí demostramos que nuestro trabajo da excelentes resultados. Gracias a todos nuestros clientes por confiar en <strong>Eli te saca de Veraz</strong></p>
+						</div>
+
+						<!-- Gallery -->
+						<div class="gallery style2 small lightbox onscroll-fade-in">
+								<article>
+									<a href="images/gallery/fulls/referencia01.jpg" class="image">
+										<img src="images/gallery/thumbs/thumbs01.jpg" alt="" />
+									</a>
+									<div class="caption">
+										<h3></h3>
+										<p></p>
+										<ul class="actions fixed">
+											<li><span class=""></span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/gallery/fulls/referencia02.jpg" class="image">
+										<img src="images/gallery/thumbs/thumbs02.jpg" alt="" />
+									</a>
+									<div class="caption">
+										<h3></h3>
+										<p></p>
+										<ul class="actions fixed">
+											<li><span class=""></span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/gallery/fulls/referencia03.jpg" class="image">
+										<img src="images/gallery/thumbs/thumbs03.jpg" alt="" />
+									</a>
+									<div class="caption">
+										<h3></h3>
+										<p></p>
+										<ul class="actions fixed">
+											<li><span class=""></span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/gallery/fulls/referencia04.jpg" class="image">
+										<img src="images/gallery/thumbs/thumbs04.jpg" alt="" />
+									</a>
+									<div class="caption">
+										<h3></h3>
+										<p></p>
+										<ul class="actions fixed">
+											<li><span class=""></span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/gallery/fulls/referencia05.jpg" class="image">
+										<img src="images/gallery/thumbs/thumbs05.jpg" alt="" />
+									</a>
+									<div class="caption">
+										<h3></h3>
+										<p></p>
+										<ul class="actions fixed">
+											<li><span class=""></span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/gallery/fulls/referencia06.jpg" class="image">
+										<img src="images/gallery/thumbs/thumbs06.jpg" alt="" />
+									</a>
+									<div class="caption">
+										<h3></h3>
+										<p></p>
+										<ul class="actions fixed">
+											<li><span class=""></span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/gallery/fulls/referencia07.jpg" class="image">
+										<img src="images/gallery/thumbs/thumbs07.jpg" alt="" />
+									</a>
+									<div class="caption">
+										<h3></h3>
+										<p></p>
+										<ul class="actions fixed">
+											<li><span class=""></span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/gallery/fulls/referencia08.jpg" class="image">
+										<img src="images/gallery/thumbs/thumbs08.jpg" alt="" />
+									</a>
+									<div class="caption">
+										<h3></h3>
+										<p></p>
+										<ul class="actions fixed">
+											<li><span class=""></span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/gallery/fulls/referencia09.jpg" class="image">
+										<img src="images/gallery/thumbs/thumbs09.jpg" alt="" />
+									</a>
+									<div class="caption">
+										<h3></h3>
+										<p></p>
+										<ul class="actions fixed">
+											<li><span class=""></span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/gallery/fulls/referencia10.jpg" class="image">
+										<img src="images/gallery/thumbs/thumbs10.jpg" alt="" />
+									</a>
+									<div class="caption">
+										<h3></h3>
+										<p></p>
+										<ul class="actions fixed">
+											<li><span class=""></span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/gallery/fulls/referencia11.jpg" class="image">
+										<img src="images/gallery/thumbs/thumbs11.jpg" alt="" />
+									</a>
+									<div class="caption">
+										<h3></h3>
+										<p></p>
+										<ul class="actions fixed">
+											<li><span class=""></span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/gallery/fulls/referencia12.jpg" class="image">
+										<img src="images/gallery/thumbs/thumbs12.jpg" alt="" />
+									</a>
+									<div class="caption">
+										<h3></h3>
+										<p></p>
+										<ul class="actions fixed">
+											<li><span class=""></span></li>
+										</ul>
+									</div>
+								</article>
+							</div>
+
 					</section>
 
 					<section class="wrapper style1 align-center">
@@ -125,47 +315,12 @@
 													<input type="text" name="name" id="name" value="">
 												</div>
 												<div class="field half">
-													<label for="name">CUIL</label>
-													<input type="text" name="name" id="name" value="">
-												</div>
-												<div class="field half">
-													<label for="name">Sexo</label>
-													<input type="text" name="name" id="name" value="">
-												</div>
-												<div class="field half">
-													<label for="name">Provincia</label>
-													<input type="text" name="name" id="name" value="">
-												</div>
-												<div class="field half">
-													<label for="name">Localidad</label>
-													<input type="text" name="name" id="name" value="">
-												</div>
-												<div class="field half">
-													<label for="name">Domicilio</label>
-													<input type="text" name="name" id="name" value="">
-												</div>
-												<div class="field half">
 													<label for="name">Teléfono</label>
 													<input type="text" name="name" id="name" value="">
 												</div>
 												<div class="field half">
 													<label for="email">Email</label>
 													<input type="email" name="email" id="email" value="">
-												</div>
-												<div class="field half">
-													<label for="name">Fecha en la que resulto afectado.</label>
-													<input type="text" name="name" id="name" value="">
-												</div>
-												<div class="field">
-													<label for="department">Motivo de su afectación</label>
-													<select name="department" id="department">
-														<option value="">- Seleccionar -</option>
-														<option value="1">Refinanciación</option>
-														<option value="2">Deuda por Cheques</option>
-														<option value="3">Deuda por Crédito Personal</option>
-														<option value="4">Deuda por Crédito Hipotecario</option>
-														<option value="4">Deuda por Crédito Prendario</option>
-													</select>
 												</div>
 												<div class="field">
 													<label for="message">Detalles</label>

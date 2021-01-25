@@ -15,3 +15,28 @@
         }
     }
 }
+
+.wsp{
+    position: fixed;
+    bottom: 1em;
+    right: 1em;
+    z-index: 9;
+
+    img{
+        width: 4em;
+    }
+}
+
+@font-face {
+    font-family: "Futura";
+    src: url("../webfonts/Futura-Bold-font.ttf");
+    src: url("../webfonts/Futura-Bold-Italic-font.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@include breakpoint('<=small') {
+    #boton{
+        display: none;
+    }
+}
