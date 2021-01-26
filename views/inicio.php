@@ -78,7 +78,7 @@
 					</section>
 
 				<!-- Three -->
-					<section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
+					<section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in" id="servicios">
 						<div class="content">
 							<h2>Nuestros servicios</h2>
 							<p>Por aplicación de la Ley 25.326 de Habeas Data, usted puede salir de todas las bases de datos de empresas de información crediticia aunque su deuda no haya sido cancelada. Entre las más reconocidas empresas de riesgo crediticio se encuentran VERAZ, NOSIS, SEVEN, RIESGO ON-LINE, RIESGO NET, entre otras. La actividad que estas empresas desempeñan está regulada por la Ley 25.326 y su Decreto Reglamentario. No obstante la claridad de la ley y la realidad nos muestra que no se cumplen los plazos legales allí establecidos y generalmente por falta de actualización de sus bases de datos o por errores cometidos por las entidades bancarias informantes, estas empresas se exceden del plazo legal permitido, pudiendo ser demandadas por daños y perjuicios por la persona erróneamente informada. Ante las graves irregularidades y excesos cometidos por estas empresas y las entidades bancarias y financieras, nuestro Estudio Integral se ha especializado en diferentes tipos de acciones legales, ofreciendo a los damnificados una solución efectiva, rápida y definitiva. Si bien la ley de Habeas Data establece plazos legales definidos, el equipo de trabajo del GRUPO NEOX desarrollo distintos recursos judiciales y extrajudiciales con los que actualmente soluciona el problema que muchas personas enfrentan ante estas entidades informantes. De esta manera, todos aquellos clientes que contraten nuestros servicios, podrán insertarse nuevamente en el sistema financiero y bancario aunque su deuda NO haya sido cancelada.</p>
@@ -88,7 +88,7 @@
 						</div>
 					</section>
 
-					<section class="spotlight style1 orient-right content-align-left image-position-left onscroll-image-fade-down">
+					<section class="spotlight style1 orient-right content-align-left image-position-left onscroll-image-fade-down" id="veraz">
 						<div class="content">
 							<h3>Salir de veraz es posible</h3>
 							<p>Salir de Veraz <br>
@@ -99,7 +99,7 @@
 						</div>
 					</section>
 
-					<section class="spotlight style2 orient-left content-align-left image-position-right onscroll-image-fade-down">
+					<section class="spotlight style2 orient-left content-align-left image-position-right onscroll-image-fade-down" id="score">
 						<div class="content">
 							<h3>¿Qué es el Score?</h3>
 							<p>El score es el puntaje crediticio que te otorgan las entidades por ser buen cliente, pagar a tiempo no atrasarte. Si tenes buen puntaje crediticio representas un riesgo bajo, esto quiere decir que los comercios/Bancos , podran otorgarte un buen crédito. Si tenes puntaje crediticio bajo de 100 a 300 puntos, representas un riesgo alto para las entidades por lo que no podran darte el credito, debido a que no realizaste compras suficientes o tuviste atrasos en tus pagos. En caso de desafectar al cliente, este mantiene el mismo puntaje en el cual lo dejo, sin embargo salir de veraz te ayuda... Cada 21 dias tu puntaje subirá de 30 a 60 puntos. Si queres tambien subir tu puntaje podrás hacerlo al momento de tramitar la desafectación, este tramite tiene 2 costos, desafectación mas suba de score. Si no estas afectado en veraz y querés mejorar tu calificación crediticia también es posible, este tramite tarda 45 a 60 dias en ambos casos, y lo importante es que no consultes por créditos mientras este en curso el tramite. Cada vez que un cliente consulta por crédito y no lo saca este se resta de su puntaje actual. Asi que no importara si estas limpio en veraz si no tenes puntaje tampoco te daran el credito.</p>
@@ -109,7 +109,7 @@
 						</div>
 					</section>
 
-					<section class="spotlight style3 orient-right content-align-left image-position-right onscroll-image-fade-in">
+					<section class="spotlight style3 orient-right content-align-left image-position-right onscroll-image-fade-in" id="estafas">
 						<div class="content">
 							<h2>Estafas</h2>
 							<p>Me estoy topando con gente que me cuenta que han sido estafados por estudios juridicos Fantasia como "SUPREMACIA LEGAL " O "SOLUCION CREDITICIA". No dan datos de quien atiende ni matricula del abogado, no sabemos quienes son o si nos sacaran de veraz. Y la realidad es que no. 
@@ -132,213 +132,16 @@
 						</div>
 					</section>
 
-					<section class="wrapper style1 align-center">
+<?php include('template/gallery.php');?>
+<?php include('template/form.php');?>
+
+
+					<section class="wrapper style1 align-center orient-left content-align-center fullscreen onload-content-fade-in" id="gmaps">
 						<div class="inner">
-							<h2>Galería de Referencias</h2>
-							<p>Aquí demostramos que nuestro trabajo da excelentes resultados. Gracias a todos nuestros clientes por confiar en <strong>Eli te saca de Veraz</strong></p>
-						</div>
-
-						<!-- Gallery -->
-						<div class="gallery style2 small lightbox onscroll-fade-in">
-								<article>
-									<a href="images/gallery/fulls/referencia01.jpg" class="image">
-										<img src="images/gallery/thumbs/thumbs01.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3></h3>
-										<p></p>
-										<ul class="actions fixed">
-											<li><span class=""></span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/referencia02.jpg" class="image">
-										<img src="images/gallery/thumbs/thumbs02.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3></h3>
-										<p></p>
-										<ul class="actions fixed">
-											<li><span class=""></span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/referencia03.jpg" class="image">
-										<img src="images/gallery/thumbs/thumbs03.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3></h3>
-										<p></p>
-										<ul class="actions fixed">
-											<li><span class=""></span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/referencia04.jpg" class="image">
-										<img src="images/gallery/thumbs/thumbs04.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3></h3>
-										<p></p>
-										<ul class="actions fixed">
-											<li><span class=""></span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/referencia05.jpg" class="image">
-										<img src="images/gallery/thumbs/thumbs05.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3></h3>
-										<p></p>
-										<ul class="actions fixed">
-											<li><span class=""></span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/referencia06.jpg" class="image">
-										<img src="images/gallery/thumbs/thumbs06.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3></h3>
-										<p></p>
-										<ul class="actions fixed">
-											<li><span class=""></span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/referencia07.jpg" class="image">
-										<img src="images/gallery/thumbs/thumbs07.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3></h3>
-										<p></p>
-										<ul class="actions fixed">
-											<li><span class=""></span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/referencia08.jpg" class="image">
-										<img src="images/gallery/thumbs/thumbs08.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3></h3>
-										<p></p>
-										<ul class="actions fixed">
-											<li><span class=""></span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/referencia09.jpg" class="image">
-										<img src="images/gallery/thumbs/thumbs09.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3></h3>
-										<p></p>
-										<ul class="actions fixed">
-											<li><span class=""></span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/referencia10.jpg" class="image">
-										<img src="images/gallery/thumbs/thumbs10.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3></h3>
-										<p></p>
-										<ul class="actions fixed">
-											<li><span class=""></span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/referencia11.jpg" class="image">
-										<img src="images/gallery/thumbs/thumbs11.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3></h3>
-										<p></p>
-										<ul class="actions fixed">
-											<li><span class=""></span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/referencia12.jpg" class="image">
-										<img src="images/gallery/thumbs/thumbs12.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3></h3>
-										<p></p>
-										<ul class="actions fixed">
-											<li><span class=""></span></li>
-										</ul>
-									</div>
-								</article>
+							<h2>¿Donde me encuentro?</h2>
+							<div class="box">
+								<blockquote>Barrio Molina Punta - Mza 61-14-2, Casa 22, CP 3400, Corrientes Capital</blockquote>
 							</div>
-
-					</section>
-
-					<section class="wrapper style1 align-center">
-					
-						<div class="inner">
-							<div class="index align-left">
-								<!-- Formulario -->
-								<section>
-									<header>
-										<h3>Envíar consulta.</h3>
-										<p></p>
-									</header>
-									<div class="content">
-
-										<form method="post" action="#">
-											<div class="fields">
-												<div class="field half">
-													<label for="name">Nombre</label>
-													<input type="text" name="name" id="name" value="">
-												</div>
-												<div class="field half">
-													<label for="name">Apellido</label>
-													<input type="text" name="name" id="name" value="">
-												</div>
-												<div class="field half">
-													<label for="name">DNI</label>
-													<input type="text" name="name" id="name" value="">
-												</div>
-												<div class="field half">
-													<label for="name">Teléfono</label>
-													<input type="text" name="name" id="name" value="">
-												</div>
-												<div class="field half">
-													<label for="email">Email</label>
-													<input type="email" name="email" id="email" value="">
-												</div>
-												<div class="field">
-													<label for="message">Detalles</label>
-													<textarea name="message" id="message" rows="6" placeholder="Detalles adicionales: institución que lo afectó, motivo, tipo de deuda, etc."></textarea>
-												</div>
-												<div class="field half">
-													<input type="checkbox" id="copy" name="copy">
-													<label for="copy">Enviarme una copia a mi email</label>
-												</div>
-											</div>
-											<ul class="actions">
-												<li><input type="submit" name="submit" id="submit" value="Enviar"></li>
-											</ul>
-										</form>
-
-									</div>
-								</section>
-							</div>
+							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1770.3572905595133!2d-58.78122008246709!3d-27.447004465224705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94456ad7a926cfc5%3A0x46f958a9c57e9093!2sCalle%20Nity%20Cigersa%2C%20Corrientes!5e0!3m2!1ses-419!2sar!4v1611612517077!5m2!1ses-419!2sar" width="100%" height="250" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 						</div>
-
 					</section>

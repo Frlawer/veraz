@@ -25,18 +25,16 @@
 									<h1>ELI TE SACA DE VERAZ</h1>
 								</a>
 							</div>
-							<div class="col-6" id="nav">
-								<ul>
+							<div class="col-9" id="nav">
+								<ul class="alt">
 									<li><a href="/">INICIO</a></li>
-									<li><a href="#" class="smooth-scroll">QUIENES SOMOS</a></li>
-									<li><a href="#" class="smooth-scroll">INFORME</a></li>
-									<li><a href="#">ESTAFAS</a></li>
-									<li><a href="#contacto">CONTACTO</a></li>
+									<li><a href="#first" class="smooth-scroll">QUIENES SOMOS</a></li>
+									<li><a href="#servicios" class="smooth-scroll">SERVICIOS</a></li>
+									<li><a href="/informe" class="smooth-scroll">INFORME</a></li>
+									<li><a href="#estafas" class="smooth-scroll">ESTAFAS</a></li>
+									<li><a href="#contacto" class="smooth-scroll">CONTACTO</a></li>
 								</ul>
 		
-							</div>
-							<div class="col-3" id="boton">
-								<button class="buttom">Contacto</button>
 							</div>
 						</div>
 						

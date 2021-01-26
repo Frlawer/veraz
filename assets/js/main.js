@@ -147,7 +147,7 @@
 		// Move nav content on breakpoint change.
 			var $navContent = $nav.children();
 
-			breakpoints.on('>medium', function() {
+			breakpoints.on('>small', function() {
 
 				// NavPanel -> Nav.
 					$navContent.appendTo($nav);
@@ -156,9 +156,11 @@
 					$nav.find('.icons, .icon')
 						.removeClass('alt');
 
+					$nav.find('ul')
+						.removeClass('alt');
 			});
 
-			breakpoints.on('<=medium', function() {
+			breakpoints.on('<=small', function() {
 
 				// Nav -> NavPanel.
 					$navContent.appendTo($navPanelInner);
@@ -166,8 +168,12 @@
 				// Flip icon classes.
 					$navPanelInner.find('.icons, .icon')
 						.addClass('alt');
+					
+					$nav.find('ul')
+						.addClass('alt');
 
 			});
+
 
 		// Hack: Disable transitions on WP.
 			if (browser.os == 'wp'

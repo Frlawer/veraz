@@ -10,7 +10,7 @@
 							<li><a href="mailto:hola@salideveraz.com.ar	
 " class="icon style2 fa-envelope"><span class="label">Email</span></a></li>
 						</ul>
-						<p>&copy; Salí de Veraz 2021 - Todos los derechos reservados. Design: <a href="http://frlawer.com">Frlawer</a>.</p>
+						<p>&copy; Salí de Veraz 2021 - Eli te saca de Veraz - Todos los derechos reservados. Design: <a href="http://frlawer.com">Frlawer</a>.</p>
 					</div>
 					<div class="wsp">
 						<a href="https://wa.me/5493794143204" target="_blank">
