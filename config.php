@@ -7,7 +7,7 @@
   | Las vistas son archivos que vas a incluir en cada seccion de tu app.
   | Por ejemplo Home, Quienes Somos, Ayuda, etc. etc...
  */
-$arr = array('inicio','informes');
+$arr = array('inicio','informes','mp_veraz');
 /*
   |--------------------------------------------------------------------------
   | Si queres mostrar errores de php en pantalla, ponela en SI sino en NO
@@ -50,6 +50,14 @@ define('NAME_SITE','Salí de Veraz');
   |
  */
 define('BASE_URL','http://salideveraz.com.ar/');
+
+/*
+  |--------------------------------------------------------------------------
+  | Clave Recaptcha.
+  |--------------------------------------------------------------------------
+  |
+ */
+define('RECAPTCHA_KEY','6LeV4z8aAAAAAPDgID7HYEQ-xy-tOJzBf3AEEP0w');
 
 /*
   |--------------------------------------------------------------------------

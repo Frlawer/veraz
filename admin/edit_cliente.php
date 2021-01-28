@@ -19,7 +19,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
     //Get input data
     $data_to_update = filter_input_array(INPUT_POST);
     
-    $data_to_update['update_at'] = date('Y-m-d H:i:s');
+    $data_to_update['updatedAt'] = date('Y-m-d H:i:s');
     $db = getDbInstance();
     $db->where('cliente_id',$cliente_id);
     $stat = $db->update('cliente', $data_to_update);

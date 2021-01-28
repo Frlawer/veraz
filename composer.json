@@ -1,5 +1,6 @@
 {
     "require": {
-        "thingengineer/mysqli-database-class": "dev-master"
+        "thingengineer/mysqli-database-class": "dev-master",
+        "mercadopago/dx-php": "2.2.1"
     }
 }

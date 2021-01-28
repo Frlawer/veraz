@@ -9,7 +9,7 @@
         <meta name="description" content="">
         <meta name="author" content="">
 
-        <title>Administrador Estudio Martínez Rejtman & Asoc.</title>
+        <title>Administrador Veraz.</title>
 
         <!-- Bootstrap Core CSS -->
         <link  rel="stylesheet" href="assets/css/bootstrap.min.css"/>
@@ -80,17 +80,6 @@
                                     <a href="index.php"><i class="fa fa-dashboard fa-fw"></i> Escritorio</a>
                                 </li>
 
-                                <li <?php echo (CURRENT_PAGE == "citas.php" || CURRENT_PAGE == "add_citas.php") ? 'class="active"' : ''; ?>>
-                                    <a href="#"><i class="fa fa-calendar"></i> Citas<span class="fa arrow"></span></a>
-                                    <ul class="nav nav-second-level">
-                                        <li>
-                                            <a href="citas.php"><i class="fa fa-list fa-fw"></i>Todos</a>
-                                        </li>
-                                        <!-- <li>
-                                            <a href="add_customer.php"><i class="fa fa-plus fa-fw"></i>Add New</a>
-                                        </li> -->
-                                    </ul>
-                                </li>
                                 <li <?php echo (CURRENT_PAGE == "clientes.php" || CURRENT_PAGE == "add_clientes.php") ? 'class="active"' : ''; ?>>
                                     <a href="#"><i class="fa fa-user-circle fa-fw"></i> Clientes<span class="fa arrow"></span></a>
                                     <ul class="nav nav-second-level">

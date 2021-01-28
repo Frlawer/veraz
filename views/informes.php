@@ -2,7 +2,7 @@
 					<section class="wrapper style1 align-center">
 						<div class="inner medium">
 							<h2>Solicitar informe VERAZ</h2>
-							<form method="post" action="#">
+							<form method="post" action="./mp_veraz">
 								<div class="fields">
 									<div class="field half">
 										<label for="name">Nombre</label>

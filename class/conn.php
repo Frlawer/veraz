@@ -37,7 +37,7 @@ abstract class DBconn {
 	
 	public function __construct(){
 		$db = new MysqliDb ('host', 'username', 'password', 'databaseName');
-	};
+	}
     # abstract methods
     # this methods must be declared in the inherited class
     # if you don't need using these methods, comment the following lines

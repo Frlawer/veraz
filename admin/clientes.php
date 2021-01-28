@@ -31,13 +31,19 @@ if (!$order_by) {
 
 //Get DB instance. i.e instance of MYSQLiDB Library
 $db = getDbInstance();
-$select = array('cliente_id', 'cliente_nombre', 'cliente_apellido', 'cliente_email', 'cliente_dni', 'cliente_tel', 'cliente_dir', 'cliente_desc');
+$select = array('cliente_id',
+                'cliente_nombre',
+                'cliente_apellido',
+                'cliente_dni',
+                'cliente_tel',
+                'cliente_email',
+            );
 
 //Start building query according to input parameters.
 // If search string
 if ($search_string) {
 	$db->where('cliente_nombre', '%' . $search_string . '%', 'like');
-	$db->orwhere('cliente_email', '%' . $search_string . '%', 'like');
+	$db->orwhere('cliente_apellido', '%' . $search_string . '%', 'like');
 }
 
 //If order by option selected
@@ -104,14 +110,13 @@ if ($order_by == 'Desc') {
     <table class="table table-striped table-bordered table-condensed">
         <thead>
             <tr>
-                <th width="3%">ID</th>
-                <th width="15%">Nombre</th>
-                <th width="15%">Apellido</th>
-                <th width="12%">Email</th>
-                <th width="5%">DNI</th>
+                <th width="5%">ID</th>
+                <th width="23%">Nombre</th>
+                <th width="22%">Apellido</th>
+                <th width="10%">DNI</th>
                 <th width="10%">Telefono</th>
-                <th width="20%">Dirección</th>
-                <th width="20%">Descripción</th>
+                <th width="20%">Email</th>
+                <th width="10%"></th>
             </tr>
         </thead>
         <tbody>
@@ -120,11 +125,9 @@ if ($order_by == 'Desc') {
                 <td><?php echo $row['cliente_id']; ?></td>
                 <td><?php echo htmlspecialchars($row['cliente_nombre']); ?></td>
                 <td><?php echo htmlspecialchars($row['cliente_apellido']); ?></td>
-                <td><?php echo htmlspecialchars($row['cliente_email']); ?></td>
                 <td><?php echo htmlspecialchars($row['cliente_dni']); ?></td>
                 <td><?php echo htmlspecialchars($row['cliente_tel']); ?></td>
-                <td><?php echo htmlspecialchars($row['cliente_dir']); ?></td>
-                <td><?php echo htmlspecialchars_decode($row['cliente_desc']); ?></td>
+                <td><?php echo htmlspecialchars($row['cliente_email']); ?></td>
                 <td>
                     <a href="edit_cliente.php?cliente_id=<?php echo $row['cliente_id']; ?>&operation=edit" class="btn btn-primary"><i class="glyphicon glyphicon-edit"></i></a>
                     <a href="#" class="btn btn-danger delete_btn" data-toggle="modal" data-target="#confirm-delete-<?php echo $row['cliente_id']; ?>"><i class="glyphicon glyphicon-trash"></i></a>

@@ -30,7 +30,7 @@
 									<li><a href="/">INICIO</a></li>
 									<li><a href="#first" class="smooth-scroll">QUIENES SOMOS</a></li>
 									<li><a href="#servicios" class="smooth-scroll">SERVICIOS</a></li>
-									<li><a href="/informe" class="smooth-scroll">INFORME</a></li>
+									<li><a href="/informes" class="smooth-scroll">INFORMES</a></li>
 									<li><a href="#estafas" class="smooth-scroll">ESTAFAS</a></li>
 									<li><a href="#contacto" class="smooth-scroll">CONTACTO</a></li>
 								</ul>
