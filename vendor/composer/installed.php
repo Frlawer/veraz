@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '37e118cda79f9e4d4d681bcf9b451d48a7fd2597',
+    'reference' => '44df0e1c1661b275f64b7a1d07c79cce9efd7b29',
     'name' => '__root__',
   ),
   'versions' => 
@@ -18,7 +18,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '37e118cda79f9e4d4d681bcf9b451d48a7fd2597',
+      'reference' => '44df0e1c1661b275f64b7a1d07c79cce9efd7b29',
     ),
     'doctrine/annotations' => 
     array (
@@ -109,6 +109,15 @@
       array (
       ),
       'reference' => '2ea4d51f6b29d568b3a06d430114467fc2ab6b90',
+    ),
+    'phpmailer/phpmailer' => 
+    array (
+      'pretty_version' => 'v6.2.0',
+      'version' => '6.2.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'e38888a75c070304ca5514197d4847a59a5c853f',
     ),
     'thingengineer/mysqli-database-class' => 
     array (
