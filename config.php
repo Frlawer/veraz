@@ -16,25 +16,6 @@ $arr = array('inicio','informes','mp_veraz');
  */
 define('MOSTRAR_ERRORES', 'NO');//SI ó NO
 
-
-/*
-  |--------------------------------------------------------------------------
-  | Clave Recaptcha.
-  |--------------------------------------------------------------------------
-  |
- */
-// define('RECAPTCHA_KEY','6LcPR-IZAAAAACXBHIICa7eTDByjy1thNMK2BxDc');
-
-/*
-  |--------------------------------------------------------------------------
-  | Require MysqliDb.php.
-  |--------------------------------------------------------------------------
-  |
- */
-// require_once('MysqliDb.php');
-// require_once("libs/dbObject.php");
-
-
 /*
   |--------------------------------------------------------------------------
   | Nombre de la Empresa.
@@ -66,3 +47,11 @@ define('RECAPTCHA_KEY','6LeV4z8aAAAAAPDgID7HYEQ-xy-tOJzBf3AEEP0w');
   |
  */
 define("RUTA_VISTAS",getcwd().DIRECTORY_SEPARATOR.'views'.DIRECTORY_SEPARATOR);
+
+/*
+  |--------------------------------------------------------------------------
+  | Token mp 
+  |--------------------------------------------------------------------------
+  |
+ */
+define("TOKEN_MP", 'TEST-3ba5264a-4351-46bc-a78c-4f3148158db0');

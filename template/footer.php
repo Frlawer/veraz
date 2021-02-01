@@ -42,6 +42,8 @@
 						});
 					});
 			</script>
+			<script src='https://www.google.com/recaptcha/api.js?render=6LeV4z8aAAAAAPDgID7HYEQ-xy-tOJzBf3AEEP0w'></script>
+			<script>grecaptcha.ready(function() {grecaptcha.execute('6LeV4z8aAAAAAPDgID7HYEQ-xy-tOJzBf3AEEP0w', {action: 'formulario'}).then(function(token) {var recaptchaResponse = document.getElementById('recaptchaResponse');recaptchaResponse.value = token;});});</script>
 
 	</body>
 </html>

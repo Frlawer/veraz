@@ -29,6 +29,8 @@
 										<textarea name="msj" id="msj" rows="6"></textarea>
 									</div>
 								</div>
+								<!-- RECAPCHA -->
+								<input type="hidden" name="recaptcha_response" id="recaptchaResponse">
 								<ul class="actions special">
 									<li><input type="submit" name="submit" id="submit" value="Solicitar Informe" /></li>
 								</ul>
