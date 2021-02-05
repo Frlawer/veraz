@@ -11,18 +11,18 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST')
     $data_to_store = array_filter($_POST);
 
     //Insert timestamp
-    $data_to_store['create_at'] = date('Y-m-d H:i:s');
+    $data_to_store['createdAt'] = date('Y-m-d H:i:s');
     $db = getDbInstance();
     
     $last_id = $db->insert('cliente', $data_to_store);
 
     if($last_id)
     {
-    	$_SESSION['success'] = "Customer added successfully!";
+    	$_SESSION['success'] = "Cliente agregado correctamente!";
     	header('location: clientes.php');
     	exit();
     }else{
-        echo 'insert failed: ' . $db->getLastError();
+        echo 'Error de carga: ' . $db->getLastError();
         exit();
     }
 }

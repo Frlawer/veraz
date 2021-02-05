@@ -24,6 +24,11 @@
         <label for="email">Email</label>
             <input  type="email" name="cliente_email" value="<?php echo htmlspecialchars($edit ? $customer['cliente_email'] : '', ENT_QUOTES, 'UTF-8'); ?>" placeholder="E-Mail" class="form-control" id="email">
     </div>
+    
+    <div class="form-group">
+        <label for="msj">Mensaje</label>
+            <textarea name="cliente_msj" id="msj" cols="30" rows="10" value="<?php echo htmlspecialchars($edit ? $customer['cliente_msj'] : '', ENT_QUOTES, 'UTF-8'); ?>" class="form-control"></textarea>
+    </div>
 
     <div class="form-group text-center">
         <label></label>

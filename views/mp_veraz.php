@@ -14,7 +14,7 @@ curl_close($ch);
 
 $jsonResponse = json_decode($response);
 if ($jsonResponse->success === true) { 
-    
+	
 // MERCADOPAGO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 // curl -X POST -H "Content-Type: application/json" -H "Authorization: Bearer TEST-5503571218052849-112616-65aa2d57f976a8ee270c33da123e129c-225380343" "https://api.mercadopago.com/users/test_user" -d "{'site_id':'MLA'}"
@@ -67,9 +67,8 @@ if ($jsonResponse->success === true) {
 	}
 	// convierto post en session
 	$_SESSION = $_POST;
-
 	// SDK de Mercado Pago
-	require './vendor/autoload.php';
+	require_once './vendor/autoload.php';
 
 	// separo los datos
 	$token_veraz = TOKEN_MP;
@@ -107,21 +106,20 @@ if ($jsonResponse->success === true) {
 	$preference->items = $datos;
 
 	$preference->save();
-}
-?>
-<div class="contactarea wrapper" id="contactarea">
-	<article class="container special">
-		<header>
-			<h2>Abonar el Informe de Veraz.</h2>
-			<p>Para poder solicitar el informe es necesario abonar el mismo a través de MercadoPago. Recibimos débito, credito y pagos con tu cuenta de MP.</p>
-		</header>
-		<div class="col-12" id="mp-img">
-			<img src="https://imgmp.mlstatic.com/org-img/banners/ar/medios/online/468X60.jpg" title="Mercado Pago - Medios de pago" alt="Mercado Pago - Medios de pago" width="468"/>
-		</div>
-		<footer>
-			<a href="<?php echo $preference->init_point; ?>" class="button">
+} ?>
+	<div class="contactarea wrapper" id="contactarea">
+		<article class="container special">
+			<header>
+				<h2>Abonar el Informe de Veraz.</h2>
+				<p>Para poder solicitar el informe es necesario abonar el mismo a través de MercadoPago. Recibimos débito, credito y pagos con tu cuenta de MP.</p>
+			</header>
+			<div class="col-12" id="mp-img">
+				<img src="https://imgmp.mlstatic.com/org-img/banners/ar/medios/online/468X60.jpg" title="Mercado Pago - Medios de pago" alt="Mercado Pago - Medios de pago" width="468"/>
+			</div>
+			<footer>
+				<a href="<?php echo $preference->init_point; ?>" class="button">
 					Abonar la cita por Mercado Pago
-			</a>
-		</footer>
-	</article>
-</div>
+				</a>
+			</footer>
+		</article>
+	</div>

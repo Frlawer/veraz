@@ -120,9 +120,9 @@
 								<li>Supremacia Legal</li>
 								<li>Escencia Juridica</li>
 								<li>Veraz en Blanco</li>
-								<li>Solucion Crediticia</li>
+								<li>Solución Crediticia</li>
 								<li>Vivir sin deudas</li>
-								<li>Solucion Crediticia</li>
+								<li>Acceso Crediticio</li>
 							</ul>
 							Si conoces mas haceme saber en <a href="https://fb.com/salgadelveraz2018" target="_blank">www.facebook.com/salgadelveraz2018</a>
 							</p>

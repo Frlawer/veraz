@@ -1,5 +1,4 @@
 <?php
-
 /*
   |--------------------------------------------------------------------------
   | En este array se ponen todas las vistas permitidas, sin el .php
@@ -7,14 +6,14 @@
   | Las vistas son archivos que vas a incluir en cada seccion de tu app.
   | Por ejemplo Home, Quienes Somos, Ayuda, etc. etc...
  */
-$arr = array('inicio','informes','mp_veraz');
+$arr = array('inicio','informes','mp_veraz','success','checkform','error');
 /*
   |--------------------------------------------------------------------------
   | Si queres mostrar errores de php en pantalla, ponela en SI sino en NO
   |--------------------------------------------------------------------------
   |
  */
-define('MOSTRAR_ERRORES', 'NO');//SI ó NO
+define('MOSTRAR_ERRORES', 'SI');//SI ó NO
 
 /*
   |--------------------------------------------------------------------------
@@ -30,6 +29,7 @@ define('NAME_SITE','Salí de Veraz');
   |--------------------------------------------------------------------------
   |
  */
+define('BASE_PATH', dirname(__FILE__));
 define('BASE_URL','http://salideveraz.com.ar/');
 
 /*
@@ -38,7 +38,7 @@ define('BASE_URL','http://salideveraz.com.ar/');
   |--------------------------------------------------------------------------
   |
  */
-define('RECAPTCHA_KEY','6LeV4z8aAAAAAPDgID7HYEQ-xy-tOJzBf3AEEP0w');
+define('RECAPTCHA_KEY','6LeV4z8aAAAAANxuwSAGr2W0MfE4ZDnEqpgYWKny');
 
 /*
   |--------------------------------------------------------------------------
@@ -55,3 +55,12 @@ define("RUTA_VISTAS",getcwd().DIRECTORY_SEPARATOR.'views'.DIRECTORY_SEPARATOR);
   |
  */
 define("TOKEN_MP", 'TEST-3ba5264a-4351-46bc-a78c-4f3148158db0');
+
+
+/**
+ * Get instance of DB object
+ */
+define(DB_HOST, 'localhost');
+define(DB_USER, 'c2070639_veraz');
+define(DB_PASSWORD, 'me40sokaNU');
+define(DB_NAME, 'c2070639_veraz');

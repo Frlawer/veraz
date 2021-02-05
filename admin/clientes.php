@@ -37,6 +37,7 @@ $select = array('cliente_id',
                 'cliente_dni',
                 'cliente_tel',
                 'cliente_email',
+                'cliente_msj',
             );
 
 //Start building query according to input parameters.
@@ -115,8 +116,9 @@ if ($order_by == 'Desc') {
                 <th width="22%">Apellido</th>
                 <th width="10%">DNI</th>
                 <th width="10%">Telefono</th>
-                <th width="20%">Email</th>
-                <th width="10%"></th>
+                <th width="15%">Email</th>
+                <th width="10%">Msj</th>
+                <th width="5%"></th>
             </tr>
         </thead>
         <tbody>
@@ -128,6 +130,7 @@ if ($order_by == 'Desc') {
                 <td><?php echo htmlspecialchars($row['cliente_dni']); ?></td>
                 <td><?php echo htmlspecialchars($row['cliente_tel']); ?></td>
                 <td><?php echo htmlspecialchars($row['cliente_email']); ?></td>
+                <td><?php echo htmlspecialchars($row['cliente_msj']); ?></td>
                 <td>
                     <a href="edit_cliente.php?cliente_id=<?php echo $row['cliente_id']; ?>&operation=edit" class="btn btn-primary"><i class="glyphicon glyphicon-edit"></i></a>
                     <a href="#" class="btn btn-danger delete_btn" data-toggle="modal" data-target="#confirm-delete-<?php echo $row['cliente_id']; ?>"><i class="glyphicon glyphicon-trash"></i></a>
