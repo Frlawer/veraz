@@ -11,6 +11,15 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-MW234JW042"></script>
+		<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'G-MW234JW042');
+		</script>
 	</head>
 	<body class="is-preload">
 
@@ -31,8 +40,9 @@
 									<li><a href="/#first" class="smooth-scroll">QUIENES SOMOS</a></li>
 									<li><a href="/#servicios" class="smooth-scroll">SERVICIOS</a></li>
 									<li><a href="/informes" class="smooth-scroll">INFORMES</a></li>
+									<li><a href="/#galeria" class="smooth-scroll">REFERENCIAS</a></li>
 									<li><a href="/#estafas" class="smooth-scroll">ESTAFAS</a></li>
-									<li><a href="/#contacto" class="smooth-scroll">CONTACTO</a></li>
+									<li><a href="/#gmaps" class="smooth-scroll">CONTACTO</a></li>
 								</ul>
 		
 							</div>

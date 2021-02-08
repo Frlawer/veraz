@@ -133,7 +133,7 @@
 					</section>
 
 <?php include('template/gallery.php');?>
-<?php include('template/form.php');?>
+<?php //include('template/form.php');?>
 
 
 					<section class="wrapper style1 align-center orient-left content-align-center fullscreen onload-content-fade-in" id="gmaps">

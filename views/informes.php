@@ -1,3 +1,11 @@
+					<section>
+						<div class="content">
+							<span class="image fit">
+								<img src="images/image10.jpg" alt="">
+							</span>
+						</div>
+
+					</section>
 				<!-- Informes -->
 					<section class="wrapper style1 align-center">
 						<div class="inner medium">

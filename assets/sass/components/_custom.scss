@@ -16,14 +16,17 @@
     }
 }
 
-.wsp{
+.rs{
     position: fixed;
+    z-index: 9;
     bottom: 1em;
     right: 1em;
-    z-index: 9;
-
+    a:nth-child(2){
+        bottom: 1em;
+        right: 2em;
+    }
     img{
-        width: 4em;
+        width: 3em;
     }
 }
 

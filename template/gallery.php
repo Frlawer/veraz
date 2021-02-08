@@ -1,4 +1,4 @@
-				<section class="wrapper style1 align-center">
+				<section class="wrapper style1 align-center" id="galeria">
 						<div class="inner">
 							<h2>Galería de Referencias</h2>
 							<p>Aquí demostramos que nuestro trabajo da excelentes resultados. Gracias a todos nuestros clientes por confiar en <strong>Eli te saca de Veraz</strong></p>

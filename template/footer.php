@@ -12,9 +12,12 @@
 						</ul>
 						<p>&copy; Salí de Veraz 2021 - Eli te saca de Veraz - Todos los derechos reservados. Design: <a href="http://frlawer.com.ar" target="_blank">Frlawer</a>.</p>
 					</div>
-					<div class="wsp">
+					<div class="rs">
 						<a href="https://wa.me/5493794143204" target="_blank">
 							<img src="images/whatsapp.png" alt="">
+						</a>
+						<a href="https://fb.com/salgadelveraz2018" target="_blank">
+							<img src="images/facebook.png" alt="">
 						</a>
 					</div>
 				</footer>
