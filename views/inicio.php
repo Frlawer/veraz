@@ -142,6 +142,6 @@
 							<div class="box">
 								<blockquote>Barrio Molina Punta - Mza 61-14-2, Casa 22, CP 3400, Corrientes Capital</blockquote>
 							</div>
-							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1770.3572905595133!2d-58.78122008246709!3d-27.447004465224705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94456ad7a926cfc5%3A0x46f958a9c57e9093!2sCalle%20Nity%20Cigersa%2C%20Corrientes!5e0!3m2!1ses-419!2sar!4v1611612517077!5m2!1ses-419!2sar" width="100%" height="250" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d56631.2668326901!2d-58.82740618941082!3d-27.486247268157666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94456b79d5bed36b%3A0xfa999f1ef3b40646!2sCorrientes!5e0!3m2!1ses-419!2sar!4v1612966874231!5m2!1ses-419!2sar" width="100%" height="250" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 						</div>
 					</section>
